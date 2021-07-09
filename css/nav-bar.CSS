@@ -1,0 +1,24 @@
+@import url(../css/hamburguer-menu.css);
+
+
+.barra-navegacion {
+  width: 100%;
+
+}
+
+nav {
+  padding        : 10px;
+  height         : 80px;
+  display        : flex;
+  justify-content: space-between;
+  align-items    : center;
+
+}
+
+#logo {
+  width: 29px;
+}
+
+.menu-desktop {
+  display: none;
+}
